@@ -1,6 +1,6 @@
-# Algorithms for massive datasets
+# Algorithms for massive datasets - Project
  
-ADM PROJECT
+
 
 PAOLA SERRA AND GIULIA HADJIANDREA
 
